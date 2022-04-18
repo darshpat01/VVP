@@ -8,6 +8,11 @@ Build a custom voice-controlled HTML5 video player with JavaScript. Features:
 - Custom controls
 - Keyboard shortcuts
 
+## Technology
+
+- Artyom - javascript library for voice detection
+- Video Player - custom video player from freshmen.tech
+
 ## Prerequisites
 
 You must have Node.js and npm installed on your machine. This project was built against the following versions:
