@@ -1,18 +1,12 @@
-# Custom HTML5 Video
+# Voice-controlled Video Player
 
-Build a custom HTML5 video player with JavaScript. Features:
+Build a custom voice-controlled HTML5 video player with JavaScript. Features:
 
 - Video and audio playback
 - Native fullscreen
 - Picture-in-Picture
 - Custom controls
 - Keyboard shortcuts
-
-Tutorial: https://freshman.tech/custom-html5-video/
-
-## Live demo
-
-This project is live at http://custom-html5-video.surge.sh/
 
 ## Prerequisites
 
